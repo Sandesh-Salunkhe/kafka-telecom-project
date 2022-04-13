@@ -6,7 +6,7 @@
     "tasks.max": "1",
     "topics": "call_datasets",
     "key.ignore": "true",
-    "connection.url": "http:// 3.108.64.187:9200",
+    "connection.url": "http://65.0.106.208:9200",
     "connection.username": "elastic",
     "connection.password": "changeme",
     "type.name": "kafka-connect",
