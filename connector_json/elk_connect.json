@@ -9,7 +9,7 @@
   "key.ignore": "true",
   "schema.ignore": "true",
   "type.name": "_doc",
-  "connection.url": "http://35.154.220.170:9200",
+  "connection.url": "http://13.233.122.201:9200",
   "connection.username": "elastic",
   "connection.password": "changeme"
 }
