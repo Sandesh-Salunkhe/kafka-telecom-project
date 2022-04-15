@@ -6,7 +6,7 @@
       "tasks.max": "1",
       "topics": "device_dataset",
       "key.ignore": "true",
-      "connection.url": "http://172.29.208.1:9200",
+      "connection.url": "http://15.206.88.175:9200",
       "connection.username": "elastic",
       "connection.password": "changeme",
       "type.name": "kafka-connect",
